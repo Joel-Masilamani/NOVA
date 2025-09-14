@@ -1,0 +1,40 @@
+[
+  {
+    "id": "cbd_breathing_4_4",
+    "title": "4-4 Breathing",
+    "type": "breathing",
+    "instructions": [
+      "Sit comfortably.",
+      "Inhale slowly for 4 counts.",
+      "Hold for 4 counts.",
+      "Exhale for 4 counts.",
+      "Repeat 4 times."
+    ],
+    "duration_seconds": 60
+  },
+  {
+    "id": "grounding_5_4_3_2_1",
+    "title": "5-4-3-2-1 Grounding",
+    "type": "grounding",
+    "instructions": [
+      "Name 5 things you can see.",
+      "4 things you can touch.",
+      "3 things you can hear.",
+      "2 things you can smell.",
+      "1 thing you can taste."
+    ],
+    "duration_seconds": 120
+  },
+  {
+    "id": "cognitive_reframe",
+    "title": "Cognitive Reframe Prompt",
+    "type": "cognitive",
+    "instructions": [
+      "Write the negative thought.",
+      "What is the evidence for this thought?",
+      "What is the evidence against it?",
+      "Create a balanced thought that is more accurate."
+    ],
+    "duration_seconds": 300
+  }
+]
